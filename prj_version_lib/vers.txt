@@ -1,0 +1,5 @@
+commit 81a89c6cae4901f9027cbef1cd4193ae64e960ae
+Author: DanChoys1 <azarov.daniil@inbox.ru>
+Date:   Thu Sep 19 15:34:46 2024 +0300
+
+    Исправил вылет программы из за потоков при перемещении корабля
